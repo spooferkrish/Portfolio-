@@ -1,0 +1,292 @@
+{
+  "faq": [
+    {
+      "q": "Comment se déroule une collaboration avec vous ?",
+      "a": "Pour nous, chaque collaboration est avant tout une relation de confiance. Nous prenons le temps de comprendre vos attentes, nous élaborons une solution sur mesure, puis nous avançons avec vous en toute transparence. Notre équipe reste disponible à chaque étape pour vous accompagner et répondre à vos questions."
+    },
+    {
+      "q": "Que dois-je vous envoyer pour avoir un devis rapidement ?",
+      "a": "Envoyez-nous en une seule fois un maximum d’informations : Objectif de la présentation, nombre de slides estimé, deadline, niveau de complexité (avec ou sans template existant, mise en page simple ou avancée, etc).\nDites-nous si vous avez besoin d’aide pour le contenu, le design, ou les deux ? Des Exemples de style souhaité (si vous en avez).\nNous échangeons toujours avec nos clients pour nous assurer que ce qu’ils demandent correspondent à leur besoin. Une de nos chefs de projets vous contacte pour un échange de vive voix. 20 minutes suffisent pour lancer votre projet !"
+    },
+    {
+      "q": "Avec quel type d’entreprises travaillez-vous ?",
+      "a": "Nous travaillons principalement avec de grandes entreprises nationales et internationales, car notre méthode et notre proposition de valeur sont davantage adaptées à des projets d’envergure ou fort enjeu stratégique."
+    },
+    {
+      "q": "Quels sont vos délais de réalisation ?",
+      "a": "Le temps nécessaire pour réaliser une présentation dépend de sa complexité et de vos besoins. Après analyse de votre cahier des charges, nous estimons la durée de chaque intervention et vous proposons un planning adapté à vos contraintes"
+    },
+    {
+      "q": "Comment fonctionne votre tarification ? ",
+      "a": "Nos prestations sont facturées au Tarif Journalier Moyen (TJM), modulé selon le type d’intervention. Notre expérience acquise depuis 2002 nous permet d’évaluer précisément le temps nécessaire à chaque réalisation."
+    },
+    {
+      "q": "Comment garantissez-vous la confidentialité de ma présentation ?",
+      "a": "La confidentialité de vos présentations est une priorité absolue. Sur demande, nous signons des accords de confidentialité (NDA), travaillons sur des serveurs sécurisés, machines cryptées, serveurs VPN, et chacun de nos collaborateurs est tenu par une clause de confidentialité inscrite dans son contrat de travail. Nous pouvons même créer une cellule hermétique avec un accès restreint à un nombre limité de collaborateurs."
+    },
+    {
+      "q": "Pourquoi choisir la boite à slides ?",
+      "a": "Contrairement à des approches uniquement visuelles ou uniquement narratives, chaque projet est pensé comme un outil de communication complet. Templates, contenus, formation et accompagnement sont conçus pour rendre les équipes autonomes et garantir la cohérence des prises de parole dans la durée. La valeur est dans la capacité à transformer PowerPoint en levier opérationnel, pas en simple support de mise en forme"
+    },
+    {
+      "q": "Êtes-vous capables de gérer des projets de gros événements ?",
+      "a": "Notre réseau de 40 experts et notre expertise nous permettent de piloter efficacement des missions complexes, avec un haut niveau d’exigence et de qualité."
+    },
+    {
+      "q": "Intervenez-vous sur les contenus ? ",
+      "a": "Nos experts en conception-rédaction anglophones et francophones prennent en charge vos contenus, de la rédaction complète au rewriting léger, selon vos besoins et votre niveau d’accompagnement."
+    },
+    {
+      "q": "Puis-je intervenir sur les contenus et la mise en page générale ? ",
+      "a": "Nous livrons nos présentations au format PowerPoint, vous donnant la liberté d’adapter facilement textes, visuels, design, pictogrammes, etc. selon vos besoins."
+    },
+    {
+      "q": "Utilisez-vous d’autres logiciels que PowerPoint ? ",
+      "a": "Nous sommes résolument centrés sur PowerPoint, nous délivrons également sur Google Slides, et pouvons nous adapter à tout type de solution de présentation comme Canva, ou Prezi. En complément, nous utilisons les logiciels de la suite Office 365 de Microsoft ainsi que ceux de la suite Adobe (Photoshop, Illustrator, Indesign, Premier…). Ajoutez à cela tous les logiciels maîtrisés par notre réseau étendu à 40 spécialistes autour de la présentation. Ces outils sont indispensables pour concevoir et livrer des présentations performantes."
+    },
+    {
+      "q": "Avec qui serais-je en contact pendant le projet ?",
+      "a": "Vous serez accompagné par une cheffe de projet dédiée, votre interlocutrice principale, qui assurera la coordination, le suivi et la qualité du livrable. Si nécessaire, nos directeurs artistiques et graphistes PowerPoint interviendront pour garantir encore plus de fluidité."
+    },
+    {
+      "q": "Est-ce que je peux avoir ma présentation dans une semaine ? ",
+      "a": "C’est tout à fait possible. En fonction de nos disponibilités, nous pouvons faire appel à notre réseau pour renforcer les équipes de production et travailler + vite. Nous pouvons également étendre nos horaires de travail si nécessaire. Nous sommes cela dit fiers d'annoncer que notre organisation nous permet dans la majeure partie des projets de livrer sans dépasser les heures d'ouverture de l'agence."
+    },
+    {
+      "q": "Faites-vous des A/R illimités ? ",
+      "a": "Notre expérience acquise depuis 2002 nous permet d’évaluer précisément le temps nécessaire pour chaque projet, y compris pour les allers-retours. Cela garantit un projet efficace, sans perte de temps, tout en maintenant la qualité attendue"
+    },
+    {
+      "q": "Je veux ma présentation sous 48h, savez-vous gérer ?",
+      "a": "Notre réseau de 40 experts nous permet de prendre en compte toutes les demandes urgentes."
+    },
+    {
+      "q": "Proposez-vous des créations gratuites ?",
+      "a": "Notre temps et notre savoir-faire sont entièrement dédiés aux projets de nos clients. Si le planning le permet, nous pouvons investir de notre temps pour travailler sur des pistes créatives."
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Teddy G.Product Consultant “Merci beaucoup ! Super boulot de votre part ! Vous pouvez être fiers du travail accompli car le défi était loin d'être facile par rapport aux autres toolkits ! Bravo !” ",
+      "html": "<article id=\"ymbouy7gbvcqtz9jhn09bl5q\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_Caterpillar_c129772a64.png\" srcset=\"/sk/uploads/thumbnail_logo_Caterpillar_c129772a64.png 1w\" sizes=\"0px\" alt=\"logo-Caterpillar.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Teddy G.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Product Consultant</p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci beaucoup ! Super boulot de votre part ! Vous pouvez être fiers du travail accompli car le défi était loin d'être facile par rapport aux autres toolkits ! Bravo !” </p></article>"
+    },
+    {
+      "text": "Teddy G.Product Consultant",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_Caterpillar_c129772a64.png\" srcset=\"/sk/uploads/thumbnail_logo_Caterpillar_c129772a64.png 1w\" sizes=\"0px\" alt=\"logo-Caterpillar.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Teddy G.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Product Consultant</p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_Caterpillar_c129772a64.png\" srcset=\"/sk/uploads/thumbnail_logo_Caterpillar_c129772a64.png 1w\" sizes=\"0px\" alt=\"logo-Caterpillar.png\" loading=\"lazy\">"
+    },
+    {
+      "text": "Teddy G.",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Teddy G.</h3>"
+    },
+    {
+      "text": "Product Consultant",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Product Consultant</p>"
+    },
+    {
+      "text": " “Merci beaucoup ! Super boulot de votre part ! Vous pouvez être fiers du travail accompli car le défi était loin d'être facile par rapport aux autres toolkits ! Bravo !” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci beaucoup ! Super boulot de votre part ! Vous pouvez être fiers du travail accompli car le défi était loin d'être facile par rapport aux autres toolkits ! Bravo !” </p>"
+    },
+    {
+      "text": "Marion T.SVP Performance & Transformation  “Merci encore pour le travail de grande qualité, tant sur la forme que sur le fond, que vous avez apporté sur nos slides à l'occasion de notre journée transformation digitale chez SED.\nLa journée a été un succès, et le professionnalisme de la présentation a été particulièrement salué.\nUn grand merci à toute l'équipe chez vous qui a travaillé sur ces slides.” ",
+      "html": "<article id=\"cj11st1hwcdsfifl5sfdzmya\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_safran_2088913497.png\" srcset=\"/sk/uploads/thumbnail_logo_safran_2088913497.png 1w\" sizes=\"0px\" alt=\"logo-safran.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Marion T.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">SVP Performance &amp; Transformation </p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci encore pour le travail de grande qualité, tant sur la forme que sur le fond, que vous avez apporté sur nos slides à l'occasion de notre journée transformation digitale chez SED.\nLa journée a été un succès, et le professionnalisme de la présentation a été particulièrement salué.\nUn grand merci à toute l'équipe chez vous qui a travaillé sur ces slides.” </p></article>"
+    },
+    {
+      "text": "Marion T.SVP Performance & Transformation ",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_safran_2088913497.png\" srcset=\"/sk/uploads/thumbnail_logo_safran_2088913497.png 1w\" sizes=\"0px\" alt=\"logo-safran.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Marion T.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">SVP Performance &amp; Transformation </p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_safran_2088913497.png\" srcset=\"/sk/uploads/thumbnail_logo_safran_2088913497.png 1w\" sizes=\"0px\" alt=\"logo-safran.png\" loading=\"lazy\">"
+    },
+    {
+      "text": "Marion T.",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Marion T.</h3>"
+    },
+    {
+      "text": "SVP Performance & Transformation ",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">SVP Performance &amp; Transformation </p>"
+    },
+    {
+      "text": " “Merci encore pour le travail de grande qualité, tant sur la forme que sur le fond, que vous avez apporté sur nos slides à l'occasion de notre journée transformation digitale chez SED.\nLa journée a été un succès, et le professionnalisme de la présentation a été particulièrement salué.\nUn grand merci à toute l'équipe chez vous qui a travaillé sur ces slides.” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci encore pour le travail de grande qualité, tant sur la forme que sur le fond, que vous avez apporté sur nos slides à l'occasion de notre journée transformation digitale chez SED.\nLa journée a été un succès, et le professionnalisme de la présentation a été particulièrement salué.\nUn grand merci à toute l'équipe chez vous qui a travaillé sur ces slides.” </p>"
+    },
+    {
+      "text": "Julie N.Directrice de la communication “Merci pour la qualité de ce travail (...) félicites les équipes pour le superbe job réalisé. L'enchaînement des animations est encore plus réussi que l'an passé et rend le bilan plus fluide et dynamique. Je suis très contente.\nJe ne suis jamais déçue avec La boite à slides ! Merci c'est bon de pouvoir compter sur vous !” ",
+      "html": "<article id=\"o02fha25n26ee0rvtaewsnpj\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_essilor_4f286cb915.png\" srcset=\"/sk/uploads/thumbnail_logo_essilor_4f286cb915.png 1w\" sizes=\"0px\" alt=\"logo-essilor.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Julie N.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Directrice de la communication</p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci pour la qualité de ce travail (...) félicites les équipes pour le superbe job réalisé. L'enchaînement des animations est encore plus réussi que l'an passé et rend le bilan plus fluide et dynamique. Je suis très contente.\nJe ne suis jamais déçue avec La boite à slides ! Merci c'est bon de pouvoir compter sur vous !” </p></article>"
+    },
+    {
+      "text": "Julie N.Directrice de la communication",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_essilor_4f286cb915.png\" srcset=\"/sk/uploads/thumbnail_logo_essilor_4f286cb915.png 1w\" sizes=\"0px\" alt=\"logo-essilor.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Julie N.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Directrice de la communication</p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_essilor_4f286cb915.png\" srcset=\"/sk/uploads/thumbnail_logo_essilor_4f286cb915.png 1w\" sizes=\"0px\" alt=\"logo-essilor.png\" loading=\"lazy\">"
+    },
+    {
+      "text": "Julie N.",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Julie N.</h3>"
+    },
+    {
+      "text": "Directrice de la communication",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Directrice de la communication</p>"
+    },
+    {
+      "text": " “Merci pour la qualité de ce travail (...) félicites les équipes pour le superbe job réalisé. L'enchaînement des animations est encore plus réussi que l'an passé et rend le bilan plus fluide et dynamique. Je suis très contente.\nJe ne suis jamais déçue avec La boite à slides ! Merci c'est bon de pouvoir compter sur vous !” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci pour la qualité de ce travail (...) félicites les équipes pour le superbe job réalisé. L'enchaînement des animations est encore plus réussi que l'an passé et rend le bilan plus fluide et dynamique. Je suis très contente.\nJe ne suis jamais déçue avec La boite à slides ! Merci c'est bon de pouvoir compter sur vous !” </p>"
+    },
+    {
+      "text": "Alexandra VGlobal Marketing & Communication Manager  “Merci beaucoup, c'est top comme d'habitude. L'équipe américaine et l’Europe veulent déjà s'en servir sur d’autres activités ! Le look and feel a servi de base pour tous nos supports. Ca level up vraiment l'ensemble du marketing et de la com sur cette activité. Ce n'est pas uniquement des slides pour une présentation donnée, ça rayonne sur plein d'autres choses, donc merci ! Cela confirme ce que je dis souvent aux personnes qui ne voient que le prix par slide ou à la prestation, c'est qu'on ne paye pas que des slides.” ",
+      "html": "<article id=\"efoar32kmfd284c9t8h7hmls\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_bostik_5b01f5c5a7.png\" srcset=\"/sk/uploads/thumbnail_logo_bostik_5b01f5c5a7.png 1w\" sizes=\"0px\" alt=\"logo-bostik.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Alexandra V</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Global Marketing &amp; Communication Manager </p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci beaucoup, c'est top comme d'habitude. L'équipe américaine et l’Europe veulent déjà s'en servir sur d’autres activités ! Le look and feel a servi de base pour tous nos supports. Ca level up vraiment l'ensemble du marketing et de la com sur cette activité. Ce n'est pas uniquement des slides pour une présentation donnée, ça rayonne sur plein d'autres choses, donc merci ! Cela confirme ce que je dis souvent aux personnes qui ne voient que le prix par slide ou à la prestation, c'est qu'on ne paye pas que des slides.” </p></article>"
+    },
+    {
+      "text": "Alexandra VGlobal Marketing & Communication Manager ",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_bostik_5b01f5c5a7.png\" srcset=\"/sk/uploads/thumbnail_logo_bostik_5b01f5c5a7.png 1w\" sizes=\"0px\" alt=\"logo-bostik.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Alexandra V</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Global Marketing &amp; Communication Manager </p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_bostik_5b01f5c5a7.png\" srcset=\"/sk/uploads/thumbnail_logo_bostik_5b01f5c5a7.png 1w\" sizes=\"0px\" alt=\"logo-bostik.png\" loading=\"lazy\">"
+    },
+    {
+      "text": "Alexandra V",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Alexandra V</h3>"
+    },
+    {
+      "text": "Global Marketing & Communication Manager ",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Global Marketing &amp; Communication Manager </p>"
+    },
+    {
+      "text": " “Merci beaucoup, c'est top comme d'habitude. L'équipe américaine et l’Europe veulent déjà s'en servir sur d’autres activités ! Le look and feel a servi de base pour tous nos supports. Ca level up vraiment l'ensemble du marketing et de la com sur cette activité. Ce n'est pas uniquement des slides pour une présentation donnée, ça rayonne sur plein d'autres choses, donc merci ! Cela confirme ce que je dis souvent aux personnes qui ne voient que le prix par slide ou à la prestation, c'est qu'on ne paye pas que des slides.” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Merci beaucoup, c'est top comme d'habitude. L'équipe américaine et l’Europe veulent déjà s'en servir sur d’autres activités ! Le look and feel a servi de base pour tous nos supports. Ca level up vraiment l'ensemble du marketing et de la com sur cette activité. Ce n'est pas uniquement des slides pour une présentation donnée, ça rayonne sur plein d'autres choses, donc merci ! Cela confirme ce que je dis souvent aux personnes qui ne voient que le prix par slide ou à la prestation, c'est qu'on ne paye pas que des slides.” </p>"
+    },
+    {
+      "text": "Andres A.Directeur Prévoyance et Assurances de Personnes “Suite à notre événement \"feuille de match PAP 2026\", vos slides ont rajouté un bel effet de surprise et des « woooaaahhh trop cool » ! (...) Un immense MERCI pour tout votre travail et votre créativité !” ",
+      "html": "<article id=\"l7upwo6mf9x8d2t1glcejvi0\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_vaudoise_8647c5fc66.png\" srcset=\"/sk/uploads/thumbnail_logo_vaudoise_8647c5fc66.png 1w\" sizes=\"0px\" alt=\"logo-vaudoise.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Andres A.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Directeur Prévoyance et Assurances de Personnes</p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Suite à notre événement \"feuille de match PAP 2026\", vos slides ont rajouté un bel effet de surprise et des « woooaaahhh trop cool » ! (...) Un immense MERCI pour tout votre travail et votre créativité !” </p></article>"
+    },
+    {
+      "text": "Andres A.Directeur Prévoyance et Assurances de Personnes",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_vaudoise_8647c5fc66.png\" srcset=\"/sk/uploads/thumbnail_logo_vaudoise_8647c5fc66.png 1w\" sizes=\"0px\" alt=\"logo-vaudoise.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Andres A.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Directeur Prévoyance et Assurances de Personnes</p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_logo_vaudoise_8647c5fc66.png\" srcset=\"/sk/uploads/thumbnail_logo_vaudoise_8647c5fc66.png 1w\" sizes=\"0px\" alt=\"logo-vaudoise.png\" loading=\"lazy\">"
+    },
+    {
+      "text": "Andres A.",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Andres A.</h3>"
+    },
+    {
+      "text": "Directeur Prévoyance et Assurances de Personnes",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Directeur Prévoyance et Assurances de Personnes</p>"
+    },
+    {
+      "text": " “Suite à notre événement \"feuille de match PAP 2026\", vos slides ont rajouté un bel effet de surprise et des « woooaaahhh trop cool » ! (...) Un immense MERCI pour tout votre travail et votre créativité !” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Suite à notre événement \"feuille de match PAP 2026\", vos slides ont rajouté un bel effet de surprise et des « woooaaahhh trop cool » ! (...) Un immense MERCI pour tout votre travail et votre créativité !” </p>"
+    },
+    {
+      "text": "Christian L.Head Global Supply Chain Management Disease Control “I just wanted to thank you for the excellent job you did on those slides. I really like the design you came up with and the slides worked very well during the webinar yesterday.\nGreat job and very well appreciated from our side.” ",
+      "html": "<article id=\"bwkffqchpjfvv2f5srzfc2zw\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_Syngenta_43c016de86.png\" srcset=\"/sk/uploads/thumbnail_Syngenta_43c016de86.png 1w\" sizes=\"0px\" alt=\"Syngenta.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Christian L.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Head Global Supply Chain Management Disease Control</p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “I just wanted to thank you for the excellent job you did on those slides. I really like the design you came up with and the slides worked very well during the webinar yesterday.\nGreat job and very well appreciated from our side.” </p></article>"
+    },
+    {
+      "text": "Christian L.Head Global Supply Chain Management Disease Control",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_Syngenta_43c016de86.png\" srcset=\"/sk/uploads/thumbnail_Syngenta_43c016de86.png 1w\" sizes=\"0px\" alt=\"Syngenta.png\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Christian L.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Head Global Supply Chain Management Disease Control</p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_Syngenta_43c016de86.png\" srcset=\"/sk/uploads/thumbnail_Syngenta_43c016de86.png 1w\" sizes=\"0px\" alt=\"Syngenta.png\" loading=\"lazy\">"
+    },
+    {
+      "text": "Christian L.",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Christian L.</h3>"
+    },
+    {
+      "text": "Head Global Supply Chain Management Disease Control",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Head Global Supply Chain Management Disease Control</p>"
+    },
+    {
+      "text": " “I just wanted to thank you for the excellent job you did on those slides. I really like the design you came up with and the slides worked very well during the webinar yesterday.\nGreat job and very well appreciated from our side.” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “I just wanted to thank you for the excellent job you did on those slides. I really like the design you came up with and the slides worked very well during the webinar yesterday.\nGreat job and very well appreciated from our side.” </p>"
+    },
+    {
+      "text": "Eva M.Global Brand Manager SAN PELLEGRINO “Je jump pour te remercier pour la prez. C'est canon ! Et les quelques personnes qui l'ont vu nous ont félicité donc bravo à la team” ",
+      "html": "<article id=\"mdx3zn70654vudene69cz0wx\" class=\"_reviewCard_1hced_46  superGlass @blur[24] @background[drk] _reviewCards__track_1gm5k_54-reviewCard\"><header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_Nestle_waters_8a22365e28.jpg\" srcset=\"/sk/uploads/thumbnail_Nestle_waters_8a22365e28.jpg 1w\" sizes=\"0px\" alt=\"Nestle-waters.jpg\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Eva M.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Global Brand Manager SAN PELLEGRINO</p></header><p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Je jump pour te remercier pour la prez. C'est canon ! Et les quelques personnes qui l'ont vu nous ont félicité donc bravo à la team” </p></article>"
+    },
+    {
+      "text": "Eva M.Global Brand Manager SAN PELLEGRINO",
+      "html": "<header class=\"_reviewCard__header_1hced_63 superFont @family[inter] @weight[500] @height[140%]\"><!--[--><img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_Nestle_waters_8a22365e28.jpg\" srcset=\"/sk/uploads/thumbnail_Nestle_waters_8a22365e28.jpg 1w\" sizes=\"0px\" alt=\"Nestle-waters.jpg\" loading=\"lazy\"><!--]--><h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Eva M.</h3><p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Global Brand Manager SAN PELLEGRINO</p></header>"
+    },
+    {
+      "text": "",
+      "html": "<img class=\"image media _reviewCard__header-image_1hced_69\" src=\"/sk/uploads/thumbnail_Nestle_waters_8a22365e28.jpg\" srcset=\"/sk/uploads/thumbnail_Nestle_waters_8a22365e28.jpg 1w\" sizes=\"0px\" alt=\"Nestle-waters.jpg\" loading=\"lazy\">"
+    },
+    {
+      "text": "Eva M.",
+      "html": "<h3 class=\"_title_1dhdk_46 _reviewCard__header-title_1hced_79 superFont @size[15]\">Eva M.</h3>"
+    },
+    {
+      "text": "Global Brand Manager SAN PELLEGRINO",
+      "html": "<p class=\"_reviewCard__header-role_1hced_79 superFont @size[12]\">Global Brand Manager SAN PELLEGRINO</p>"
+    },
+    {
+      "text": " “Je jump pour te remercier pour la prez. C'est canon ! Et les quelques personnes qui l'ont vu nous ont félicité donc bravo à la team” ",
+      "html": "<p class=\"_reviewCard__content_1hced_89 superFont @size[18]\"> “Je jump pour te remercier pour la prez. C'est canon ! Et les quelques personnes qui l'ont vu nous ont félicité donc bravo à la team” </p>"
+    }
+  ],
+  "paragraphs": [
+    "La boite à slides® est l'agence PowerPoint activateur d'impact certifiée ISO 9001:2015. Nous sommes experts de l’impact de vos contenus grâce au pouvoir de PowerPoint. Tout ce que vos contenus exigent - tous formats confondus - depuis un seul outil au potentiel créatif illimité, maîtrisé comme personne. Depuis 2002, nous repoussons les limites de ce que le logiciel le plus universel et puissant du monde de l’entreprise peut produire pour vous faire gagner en impact, en performance et en autonomie.",
+    "Seule agence certifiée ISO 9001 entièrement dédiée à PowerPoint, LABAS® a fait de cet outil universel un levier de création globale, capable de rivaliser avec les productions des plus grandes agences de communication et des studios de création.",
+    "Quoi de mieux pour comprendre notre expertise d’Agence PowerPoint que de vous partager nos références ? 15 années de présentations avec ENGIE, 6 années de messages transmis avec KRYS, 10 années de confiance avec PERRIER, 13 années de collaboration avec UNIBAIL RODAMCO URW et bien plus encore que vous pouvez retrouver sur notre page de réalisations Powerpoint. Vous pouvez également retrouver l’ensemble de nos références clients  et nos réalisations.",
+    "Depuis 2002, nous transmettons +400 messages par an. Exigez la rigueur de l'ISO 9001 pour vos projets stratégiques, notre agence PowerPoint livre avec 0 retard. Nos présentations PowerPoint sont conçues pour convaincre et transmettre vos messages avec pertinence. Nous vous accompagnons de bout en bout : de la conception de votre contenu stratégique à la mise en forme, l’animation et la diffusion de vos présentations.",
+    "Notre agence PowerPoint basée à Paris et partout en France est composée d’une équipe de 12 personnes : 2 dirigeants, 3 chefs de projet, 5 graphistes, 1 office manager, 1 business developer. Notre équipe s'étend à 40 talents chaque année grâce à notre réseau de spécialistes externes tous évalués selon les critères validés par la norme ISO 9001. La boite à slides® est spécialiste PowerPoint, nous n'engageons et ne formons que des spécialistes. Notre organisation se découpe en 3 pôles.",
+    "Pour nous, chaque message est unique, c’est pourquoi nous vous accompagnons de manière personnalisée tout au long de vos projets. En tant qu’agence PowerPoint nous travaillons vos messages, qu’il s’agissent de présentations stratégiques, d'outils de communication, de supports commerciaux ou encore financiers.",
+    "Le rôle de notre agence de communication PowerPoint spécialisée est aussi de vous accompagner, quel que soit votre public, qu’il s’agisse d’une communication en interne ou en externe.",
+    "Qu’importe l’objectif, le message ou le public visé, notre agence PowerPoint vous accompagne sur tous vos projets pour vous proposer des présentations convaincantes et impactantes afin que vos messages soient bien transmis !",
+    "Au-delà de la création de vos présentations pour des évènements ponctuels, nous accompagnons également nos clients à la création de modèle ou template pour PowerPoint. Nos créations s’adaptent à vos besoins. L’utilisation d’un template PowerPoint comme vous le savez, permet à la fois de standardiser vos communications, vos supports, mais surtout de vous faire gagner du temps au quotidien. Il est aujourd’hui très courant d’avoir un template PowerPoint charté aux couleurs de son entreprise. Toutefois, un template mal construit ou pas assez complet ne vous permettra pas de gagner en efficacité. On s’aperçoit aujourd’hui que trop de template sont limités ou ne sont pas optimisés pour des mises en page rapides.",
+    "Les compétences de notre agence PowerPoint, au-delà de la création de vos présentations pour des évènements ponctuels, nous permettent d’accompagner également nos clients à la création de modèle ou template pour PowerPoint. Nos créations s’adaptent à tous les types de besoins. L’avantage de faire appel à une Agence PowerPoint pour créer son template ? Avoir un résultat fini qui permet une utilisation rapide et efficace pour gagner du temps au quotidien et faire gagner du temps à vos équipes !",
+    "En tant qu’agence spécialisée en PowerPoint nous proposons à nos clients des templates PowerPoint complets, avec un large choix de mise en page. Bien évidemment nous adaptons toute notre création à votre charte graphique. Notre objectif est de vous remettre un livrable simple d’utilisation qui permettra à vos équipes de gagner du temps tout en respectant votre charte pour transmettre avec efficacité tous les messages en préservant votre identité de marque.",
+    "A la boite à slides, nous avons mis en place des formations PowerPoint que nous proposons à nos clients désireux de progresser dans leur maîtrise de l’outil PowerPoint pour gagner en efficacité au quotidien : ",
+    "Pour vous former c’est Ulrich, notre co-dirigeant, qui vous accompagnera. Depuis 2013 il forme chaque nouveau graphiste au logiciel et à la rigueur de notre agence Powerpoint. C’est le formateur idéal pour  progresser sur PowerPoint !",
+    "Nos formations c’est 2h pour maîtriser les bases de PowerPoint. Demandez sans tarder nos programmes de formation",
+    "Nous sommes une Agence PowerPoint complète et nous vous proposons un accompagnement tout au long de vos projets. Notre expertise, depuis 2002 maintenant, nous permet de concevoir, designer et produire des contenus qui frappent juste et fort, quel que soit le format (slides, vidéos, prints, contenus interactifs et live, réseaux sociaux…), le contexte et l'enjeu.",
+    "Pour chaque support créé, nous combinons plus de 10 expertises essentielles pour créer des messages percutants :",
+    "Notre équipe est disponible pour guider dans les choix à faire pour vos projets sur PowerPoint et vous conseiller au plus près de vos besoins. Vous pouvez retrouver notre offre et nos références directement sur notre site. Nous répondons directement par téléphone au 01 75 43 28 30.",
+    "Nos clients ont des idées fortes, des stratégies à partager, des messages complexes à faire passer.\nAvec des contenus interactifs et des expériences captivantes, ils offrent à leur cible ce qu’il y a de plus puissant : l’évidence. ",
+    "Tirer parti des dernières avancées technologiques et intelligences artificielles pour valoriser vos messages les plus importants",
+    "À la boite à slides, on maximise l'engagement de votre public depuis 2002. On repousse les limites de PowerPoint pour vous faire gagner en impact, en performance et en autonomie. Pour votre plus grande satisfaction.",
+    "Une expérience aussi bluffante, vous n’êtes pas prêt de l’oublier. Votre public non plus.",
+    "Une équipe de spécialistes qui réunit sans concession une culture de la réflexion et le goût de l’inattendu. Ça donne la première agence Powerpoint en France.",
+    "Product Consultant",
+    " “Merci beaucoup ! Super boulot de votre part ! Vous pouvez être fiers du travail accompli car le défi était loin d'être facile par rapport aux autres toolkits ! Bravo !” ",
+    "SVP Performance & Transformation ",
+    " “Merci encore pour le travail de grande qualité, tant sur la forme que sur le fond, que vous avez apporté sur nos slides à l'occasion de notre journée transformation digitale chez SED.\nLa journée a été un succès, et le professionnalisme de la présentation a été particulièrement salué.\nUn grand merci à toute l'équipe chez vous qui a travaillé sur ces slides.” ",
+    "Directrice de la communication",
+    " “Merci pour la qualité de ce travail (...) félicites les équipes pour le superbe job réalisé. L'enchaînement des animations est encore plus réussi que l'an passé et rend le bilan plus fluide et dynamique. Je suis très contente.\nJe ne suis jamais déçue avec La boite à slides ! Merci c'est bon de pouvoir compter sur vous !” ",
+    "Global Marketing & Communication Manager ",
+    " “Merci beaucoup, c'est top comme d'habitude. L'équipe américaine et l’Europe veulent déjà s'en servir sur d’autres activités ! Le look and feel a servi de base pour tous nos supports. Ca level up vraiment l'ensemble du marketing et de la com sur cette activité. Ce n'est pas uniquement des slides pour une présentation donnée, ça rayonne sur plein d'autres choses, donc merci ! Cela confirme ce que je dis souvent aux personnes qui ne voient que le prix par slide ou à la prestation, c'est qu'on ne paye pas que des slides.” ",
+    "Directeur Prévoyance et Assurances de Personnes",
+    " “Suite à notre événement \"feuille de match PAP 2026\", vos slides ont rajouté un bel effet de surprise et des « woooaaahhh trop cool » ! (...) Un immense MERCI pour tout votre travail et votre créativité !” ",
+    "Head Global Supply Chain Management Disease Control",
+    " “I just wanted to thank you for the excellent job you did on those slides. I really like the design you came up with and the slides worked very well during the webinar yesterday.\nGreat job and very well appreciated from our side.” ",
+    "Global Brand Manager SAN PELLEGRINO",
+    " “Je jump pour te remercier pour la prez. C'est canon ! Et les quelques personnes qui l'ont vu nous ont félicité donc bravo à la team” ",
+    " Pour nous, chaque collaboration est avant tout une relation de confiance. Nous prenons le temps de comprendre vos attentes, nous élaborons une solution sur mesure, puis nous avançons avec vous en toute transparence. Notre équipe reste disponible à chaque étape pour vous accompagner et répondre à vos questions.",
+    " Envoyez-nous en une seule fois un maximum d’informations : Objectif de la présentation, nombre de slides estimé, deadline, niveau de complexité (avec ou sans template existant, mise en page simple ou avancée, etc).\nDites-nous si vous avez besoin d’aide pour le contenu, le design, ou les deux ? Des Exemples de style souhaité (si vous en avez).\nNous échangeons toujours avec nos clients pour nous assurer que ce qu’ils demandent correspondent à leur besoin. Une de nos chefs de projets vous contacte pour un échange de vive voix. 20 minutes suffisent pour lancer votre projet !",
+    " Nous travaillons principalement avec de grandes entreprises nationales et internationales, car notre méthode et notre proposition de valeur sont davantage adaptées à des projets d’envergure ou fort enjeu stratégique.",
+    " Le temps nécessaire pour réaliser une présentation dépend de sa complexité et de vos besoins. Après analyse de votre cahier des charges, nous estimons la durée de chaque intervention et vous proposons un planning adapté à vos contraintes",
+    " Nos prestations sont facturées au Tarif Journalier Moyen (TJM), modulé selon le type d’intervention. Notre expérience acquise depuis 2002 nous permet d’évaluer précisément le temps nécessaire à chaque réalisation.",
+    " La confidentialité de vos présentations est une priorité absolue. Sur demande, nous signons des accords de confidentialité (NDA), travaillons sur des serveurs sécurisés, machines cryptées, serveurs VPN, et chacun de nos collaborateurs est tenu par une clause de confidentialité inscrite dans son contrat de travail. Nous pouvons même créer une cellule hermétique avec un accès restreint à un nombre limité de collaborateurs.",
+    " Contrairement à des approches uniquement visuelles ou uniquement narratives, chaque projet est pensé comme un outil de communication complet. Templates, contenus, formation et accompagnement sont conçus pour rendre les équipes autonomes et garantir la cohérence des prises de parole dans la durée. La valeur est dans la capacité à transformer PowerPoint en levier opérationnel, pas en simple support de mise en forme",
+    " Notre réseau de 40 experts et notre expertise nous permettent de piloter efficacement des missions complexes, avec un haut niveau d’exigence et de qualité. ",
+    " Nos experts en conception-rédaction anglophones et francophones prennent en charge vos contenus, de la rédaction complète au rewriting léger, selon vos besoins et votre niveau d’accompagnement. ",
+    " Nous livrons nos présentations au format PowerPoint, vous donnant la liberté d’adapter facilement textes, visuels, design, pictogrammes, etc. selon vos besoins.",
+    " Nous sommes résolument centrés sur PowerPoint, nous délivrons également sur Google Slides, et pouvons nous adapter à tout type de solution de présentation comme Canva, ou Prezi. En complément, nous utilisons les logiciels de la suite Office 365 de Microsoft ainsi que ceux de la suite Adobe (Photoshop, Illustrator, Indesign, Premier…). Ajoutez à cela tous les logiciels maîtrisés par notre réseau étendu à 40 spécialistes autour de la présentation. Ces outils sont indispensables pour concevoir et livrer des présentations performantes.",
+    " Vous serez accompagné par une cheffe de projet dédiée, votre interlocutrice principale, qui assurera la coordination, le suivi et la qualité du livrable. Si nécessaire, nos directeurs artistiques et graphistes PowerPoint interviendront pour garantir encore plus de fluidité.",
+    " C’est tout à fait possible. En fonction de nos disponibilités, nous pouvons faire appel à notre réseau pour renforcer les équipes de production et travailler + vite. Nous pouvons également étendre nos horaires de travail si nécessaire. Nous sommes cela dit fiers d'annoncer que notre organisation nous permet dans la majeure partie des projets de livrer sans dépasser les heures d'ouverture de l'agence.",
+    " Notre expérience acquise depuis 2002 nous permet d’évaluer précisément le temps nécessaire pour chaque projet, y compris pour les allers-retours. Cela garantit un projet efficace, sans perte de temps, tout en maintenant la qualité attendue",
+    " Notre réseau de 40 experts nous permet de prendre en compte toutes les demandes urgentes.",
+    " Notre temps et notre savoir-faire sont entièrement dédiés aux projets de nos clients. Si le planning le permet, nous pouvons investir de notre temps pour travailler sur des pistes créatives."
+  ]
+}
